@@ -2,7 +2,7 @@
 ui <- fluidPage(
 
   # App title ----
-  titlePanel("Hello Shiny!"),
+  titlePanel("Matt's Shiny App!"),
 
   # Sidebar layout with input and output definitions ----
   sidebarLayout(
